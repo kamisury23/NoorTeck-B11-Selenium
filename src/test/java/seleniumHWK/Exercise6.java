@@ -78,8 +78,6 @@ public class Exercise6 extends Hooks {
 			System.out.println("It does not contain the phrase");
 		}
 
-		
-		//Pull to Github
 		driver.quit();
 
 		tearDown();
