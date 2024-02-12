@@ -95,6 +95,8 @@ public class Exercise3 extends Hooks {
 			System.out.println("TESTCASE FAILED");
 		}
 
+		
+		//Pull to Github
 		driver.quit();
 
 		tearDown();
