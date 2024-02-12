@@ -41,6 +41,8 @@ public class Exercise1 extends Hooks {
 
 		tearDown();
 
+		// testing
+
 	}
 
 }

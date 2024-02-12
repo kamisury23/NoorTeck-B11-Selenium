@@ -78,7 +78,6 @@ public class Exercise6 extends Hooks {
 			System.out.println("It does not contain the phrase");
 		}
 		
-		//Testing git again
 
 		driver.quit();
 
