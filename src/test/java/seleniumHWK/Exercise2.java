@@ -86,7 +86,7 @@ public class Exercise2 extends Hooks {
 
 		tearDown();
 
-		// testing
+		// git push from local
 	}
 
 }
